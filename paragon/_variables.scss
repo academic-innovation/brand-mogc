@@ -17,3 +17,11 @@ $link: $blue;
 $link-color: $blue;
 $inline-link-color: $blue;
 $info: $light;
+
+
+$font-family-sans-serif: $avenir;
+
+p > a[href]:not(.btn), 
+a.inline-link {
+    font-weight: 500;
+}
