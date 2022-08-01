@@ -4,7 +4,7 @@
 @font-face {
     font-family: "Avenir";
     src: url(fonts/avenir-book.woff2);
-    font-weight: 400;
+    font-weight: 300 400;
     font-style: normal;
 }
 
@@ -23,7 +23,3 @@
 }
 
 $avenir: 'Avenir', 'Open Sans', sans-serif;
-
-$avenir-heavy: 'Avenir Heavy', 'Open Sans', sans-serif;
-$avenir-medium: 'Avenir Medium', 'Open Sans', sans-serif;
-$avenir-book: 'Avenir Book', 'Open Sans', sans-serif;
