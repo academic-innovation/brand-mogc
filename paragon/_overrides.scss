@@ -21,11 +21,6 @@ a {
     color: $inline-link-color;
 }
 
-p > a[href]:not(.btn), 
-a.inline-link {
-    font-weight: $font-weight-semi-bold;
-}
-
 .alert-info {
     background-color: $light-100;
 }
