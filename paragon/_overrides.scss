@@ -24,3 +24,12 @@ a {
 .alert-info {
     background-color: $light-100;
 }
+
+.btn-group {
+    & > .btn {
+        text-transform: uppercase;
+        letter-spacing: .25px;
+        padding-right: 3rem;
+        padding-left: 3rem;
+    }
+}
